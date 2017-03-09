@@ -1,1 +1,1 @@
-set nu
+set number
