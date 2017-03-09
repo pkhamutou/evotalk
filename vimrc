@@ -1,5 +1,3 @@
 set number
 
 set something
-
-
